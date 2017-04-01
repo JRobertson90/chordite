@@ -10,8 +10,13 @@ Vertical Adjustment: 20mm adjustmernt: Two embedded nuts on sliding base - one f
 2 nuts
 2 wing nuts
 2 threaded rods
+1 axle rod
 
 plastics:
 slotted track (same as diameter of threaded rods)
 sliders with embedded nuts
 switch shell
+
+
+try:
+short flat keycaps for thumbs
