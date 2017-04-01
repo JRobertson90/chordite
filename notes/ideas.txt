@@ -1,21 +1,10 @@
-rotational bar: make it permanent: close side flanges, make them thicker
-switch clamper: make longer, make it grip tighter, add a threaded hole on the backside for a locking screw, round off the bottom so I can make it longer
-traveling wires: think about placement of wires
-make the traveling plate:
-Vertical Adjustment: 20mm adjustmernt: Two embedded nuts on sliding base - one for tightening, one for raising and lowering
-
-
-
-
-2 nuts
-2 wing nuts
-2 threaded rods
-1 axle rod
+(1) #6-32 screw
+(3) #6 nuts
 
 plastics:
-slotted track (same as diameter of threaded rods)
-sliders with embedded nuts
-switch shell
+slotted track (surrounded by 2 #6 nuts)
+floating base (with embedded #6 nut)
+switch base (with 2 embedded #4 nuts and #4 threaded screw / rod)
 
 
 try:
