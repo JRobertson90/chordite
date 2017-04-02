@@ -1,8 +1,1 @@
-86˚ = 274˚
-
-over the course of 274˚ I need to span 7.7477mm
-
-which means that every degree needs to increase radius by .0283mm
-
-1.78428 mm (radius) x 11m tall = good for the 6-32 threaded rod
-4 mm outside radius
+1.5mm radius
