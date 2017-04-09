@@ -1,5 +1,0 @@
-#4-40
-=====================
-hole radius: 1.7mm
-head radius: 2.7mm
-head height: 1.8mm

@@ -1,1 +1,14 @@
-1.5mm radius
+=====================
+      #4-40
+=====================
+hole radius: 1.4mm
+head radius: 2.7mm
+head height: 1.8mm
+nut holder: 3.25mm radius (to flat side)
+
+=====================
+       Pins
+=====================
+3.81mm left, 2.54mm up (from center) w/ 0.8mm radius hole
+5.08mm up, 2.54mm right (from center) w/ 0.8mm radius hole
+center pin: 2mm radius w/ 3.3mm depth
