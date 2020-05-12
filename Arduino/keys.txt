@@ -23,7 +23,15 @@ A - Z
 ======================
      Other = 9 Keys
 ======================
-l
+up
+down
+left
+right
+tab
+space
+enter
+delete
+escape
 ======================
    Modifiers = 4 Keys
 ======================
@@ -33,13 +41,9 @@ Command
 Control
 ========================
 Would be nice to have:
-   Function = 12 or 19
+   12 Function keys
+   Reverse delete
 ========================
-Probably don't need:
-   Power Key = 1
-   Eject Key = 1
-   Fn modifier = 1
-====================
 
 
 56 + 4 mod
